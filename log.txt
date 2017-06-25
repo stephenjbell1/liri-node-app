@@ -1,0 +1,177 @@
+@stephenjbell191: snarf1
+Sat Jun 24 20:02:02 +0000 2017
+========== 1 ==========
+@stephenjbell191: migration
+Sat Jun 24 20:02:19 +0000 2017
+========== 0 ==========
+@stephenjbell191: kick a field goal
+Sat Jun 24 20:01:52 +0000 2017
+========== 2 ==========
+@stephenjbell191: map
+Sat Jun 24 20:01:43 +0000 2017
+========== 3 ==========
+@stephenjbell191: bugs
+Sat Jun 24 20:01:35 +0000 2017
+========== 4 ==========
+Artist: Kendrick Lamar
+Song: HUMBLE.
+Album the song is from: DAMN.
+Preview Url: null
+========== 0 ==========
+Artist: Tim McGraw
+Song: Humble And Kind
+Album the song is from: Humble And Kind
+Preview Url: null
+========== 1 ==========
+Artist: Wahlstedt
+Song: Humble
+Album the song is from: Humble
+Preview Url: https://p.scdn.co/mp3-preview/9b30cb468416a817bb877e404f35c917d7e6f00f?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 2 ==========
+Artist: Tim McGraw
+Song: Humble And Kind
+Album the song is from: Damn Country Music
+Preview Url: null
+========== 4 ==========
+Artist: Kendrick Lamar
+Song: HUMBLE.
+Album the song is from: DAMN.
+Preview Url: null
+========== 3 ==========
+====== MOVIE RESULTS ======
+====== MOVIE RESULTS ======
+====== MOVIE RESULTS ======
+====== MOVIE RESULTS ======
+Title: Spiderman
+Year: 1990
+Imdb Rating: 5.7
+Country: Switzerland
+Language: German
+Plot: N/A
+Actors: N/A
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/spiderman-1990/
+===========================
+Artist: Kendrick Lamar
+Song: HUMBLE.
+Album the song is from: DAMN.
+Preview Url: null
+========== 0 ==========
+Artist: Tim McGraw
+Song: Humble And Kind
+Album the song is from: Humble And Kind
+Preview Url: null
+========== 1 ==========
+Artist: Wahlstedt
+Song: Humble
+Album the song is from: Humble
+Preview Url: https://p.scdn.co/mp3-preview/9b30cb468416a817bb877e404f35c917d7e6f00f?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 2 ==========
+Artist: Tim McGraw
+Song: Humble And Kind
+Album the song is from: Damn Country Music
+Preview Url: null
+========== 4 ==========
+Artist: Kendrick Lamar
+Song: HUMBLE.
+Album the song is from: DAMN.
+Preview Url: null
+========== 3 ==========
+@stephenjbell191: migration
+Sat Jun 24 20:02:19 +0000 2017
+========== 0 ==========
+@stephenjbell191: map
+Sat Jun 24 20:01:43 +0000 2017
+========== 3 ==========
+@stephenjbell191: kick a field goal
+Sat Jun 24 20:01:52 +0000 2017
+========== 2 ==========
+@stephenjbell191: snarf1
+Sat Jun 24 20:02:02 +0000 2017
+========== 1 ==========
+@stephenjbell191: bugs
+Sat Jun 24 20:01:35 +0000 2017
+========== 4 ==========
+====== MOVIE RESULTS ======
+Title: Spiderman
+Year: 1990
+Imdb Rating: 5.7
+Country: Switzerland
+Language: German
+Plot: N/A
+Actors: N/A
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/spiderman-1990/
+===========================
+====== MOVIE RESULTS ======
+Title: Spiderman
+Year: 1990
+Imdb Rating: 5.7
+Country: Switzerland
+Language: German
+Plot: N/A
+Actors: N/A
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/spiderman-1990/
+===========================
+====== MOVIE RESULTS ======
+Title: Mr. Nobody
+Year: 2009
+Imdb Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+===========================
+Artist: Harry Styles
+Song: Sign of the Times
+Album the song is from: Harry Styles
+Preview Url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 1 ==========
+Artist: Harry Styles
+Song: Sign of the Times
+Album the song is from: Sign of the Times
+Preview Url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 0 ==========
+Artist: Ace of Base
+Song: The Sign
+Album the song is from: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 4 ==========
+Artist: Ty Dolla $ign
+Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album the song is from: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview Url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 2 ==========
+Artist: Jeremih
+Song: Impatient
+Album the song is from: Late Nights: The Album
+Preview Url: null
+========== 3 ==========
+Artist: Ace of Base
+Song: The Sign
+Album the song is from: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 0 ==========
+Artist: Ace of Base
+Song: All That She Wants
+Album the song is from: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 1 ==========
+Artist: Ace of Base
+Song: Don't Turn Around
+Album the song is from: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 3 ==========
+Artist: Ace of Base
+Song: The Sign
+Album the song is from: Greatest Hits
+Preview Url: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 2 ==========
+Artist: Ace of Base
+Song: Wheel of Fortune
+Album the song is from: The Sign (US Album) [Remastered]
+Preview Url: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=26f2e8a87f7f4e508385c04c2c418007
+========== 4 ==========
